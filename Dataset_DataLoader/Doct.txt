@@ -1,0 +1,4 @@
+https://chih-sheng-huang821.medium.com/03-pytorch-dataaug-a712a7a7f55e
+https://pytorch.org/vision/stable/auto_examples/plot_scripted_tensor_transforms.html#sphx-glr-auto-examples-plot-scripted-tensor-transforms-py
+https://pytorch.org/vision/stable/auto_examples/plot_transforms.html#sphx-glr-auto-examples-plot-transforms-py
+https://pytorch.org/vision/stable/transforms.html
