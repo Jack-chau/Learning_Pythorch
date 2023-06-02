@@ -1,6 +1,6 @@
 '''  Autograd -package
         The autograd package in pytorch is to calculate the gradients with it.
-        Gradient are essential for out model optimization, it is vary import important
+        Gradient are essential for out model optimization, it is vary important!
 '''
 import torch
 
